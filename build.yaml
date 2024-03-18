@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-  shield: <osmos-5x6_left
+  shield: cosmos-5x6_left
   - board: nice_nano_v2
   shield: cosmos-5x6_right
