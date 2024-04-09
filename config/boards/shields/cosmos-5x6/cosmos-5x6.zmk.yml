@@ -3,7 +3,7 @@ id: cosmos-5x6
 name: Cosmos-5x6
 type: shield
 url: https://github.com/TezzIRL/cosmos-5x6-shield-module
-requires: [pro_micro]
+requires: [nice_nano_v2]
 features:
   - keys
 siblings:
