@@ -1,4 +1,4 @@
-if SHIELD_COSMOS_LEFT
+if cosmos-5x6_left
 
 config ZMK_KEYBOARD_NAME
     default "Cosmos 5x6 - L"
@@ -8,14 +8,14 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
-if SHIELD_COSMOS_RIGHT
+if cosmos-5x6_right
 
 config ZMK_KEYBOARD_NAME
     default "Cosmos 5x6 - R"
 
 endif
 
-if SHIELD_COSMOS_LEFT || SHIELD_COSMOS_RIGHT
+if cosmos-5x6_left || cosmos-5x6_right
 
 config ZMK_SPLIT
     default y
