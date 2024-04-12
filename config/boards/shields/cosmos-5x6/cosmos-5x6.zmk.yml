@@ -1,6 +1,6 @@
 file_format: "1"
 id: cosmos-5x6
-name: Cosmos-5x6
+name: cosmos-5x6
 type: shield
 url: https://github.com/TezzIRL/cosmos-5x6-shield-module
 requires: [nice_nano_v2]
