@@ -19,8 +19,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: cosmos-5x6_left
+    shield: cosmos_left
   - board: nice_nano_v2
-    shield: cosmos-5x6_right
+    shield: cosmos_right
   - board: nice_nano_v2
     shield: settings_reset

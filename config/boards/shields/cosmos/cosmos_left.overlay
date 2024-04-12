@@ -1,4 +1,4 @@
-#include "cosmos-5x6.dtsi"
+#include "cosmos.dtsi"
 
 &kscan0 {
     col-gpios
